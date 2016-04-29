@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philippibuonacc00miodgoog_0006.png"; bbox 0 0 3240 5478; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 354 904 1253 1251">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 354 904 1253 1251">
+     <span class='ocr_line' id='line_1_1' title="bbox 534 904 1253 991; baseline -0.017 -4"><span class='ocrx_word' id='word_1_1' title='bbox 534 904 945 991; x_wconf 63' lang='lat' dir='ltr'>vmffmffi</span> <span class='ocrx_word' id='word_1_2' title='bbox 1248 941 1253 950; x_wconf 23' lang='grc' dir='ltr'><em>κ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 455 977 1243 1116; baseline -0.032 -3"><span class='ocrx_word' id='word_1_3' title='bbox 455 1028 1028 1116; x_wconf 66' lang='grc' dir='ltr'>οκεοοκυεΑΝοςει</span> <span class='ocrx_word' id='word_1_4' title='bbox 1188 977 1243 1090; x_wconf 41' lang='grc' dir='ltr'>αὶ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 354 1152 1116 1251; baseline 0 -15"><span class='ocrx_word' id='word_1_5' title='bbox 354 1152 1116 1251; x_wconf 55' lang='lat' dir='ltr'>Affifflwmfflwffiffi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1624 5478">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1624 5478">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1624 5478; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1624 5478; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
